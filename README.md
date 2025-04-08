@@ -1,4 +1,4 @@
-## What things I'm a part of
+**What things I'm a part of**
 
 <a href="https://github.com/bazelik-null/ENAbbq_rus">
   <img src="https://i.postimg.cc/2y2BHk1x/RUSENA.png" alt="ENA Russian Localization" width="32" align="absmiddle" />
