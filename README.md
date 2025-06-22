@@ -14,5 +14,3 @@
   <img src="https://i.postimg.cc/Hny47mxH/image.png" alt="Unannounced Project" width="32" align="absmiddle" />
 </a>
 <a href="https://sholdue.world/"><strong>Unannounced Project</strong></a>
-
-I'M NOT DOING ANYTHING RIGHT NOW.
